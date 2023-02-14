@@ -108,10 +108,6 @@ body * {
   margin-left: auto;
 }
 
-.message:not(.you) {
-  width: 60vw;
-}
-
 .message.you .top {
   text-align: right;
 }
